@@ -2,8 +2,7 @@ export const quotesList = [
   {
     id: 1,
     img: '',
-    quote:
-      'For me, money is not my definition of success. Inspiring people is a definition of success.',
+    quote: `Kanye West current fav song is 🦝Blood // water by Rosie`,
   },
   {
     id: 2,
